@@ -1,5 +1,6 @@
 # Laravel-project
-Teorija:
+
+#Teorija:
     • Kas ir API?
     1. API (Application Programming Interface) ir saskarne starp dažādām programmatūras komponentēm, kas nosaka, kā tās var mijiedarboties un izmantot viena otru.
     
